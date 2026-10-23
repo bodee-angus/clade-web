@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Clade symbol</title>
+  <desc id="desc">A vertical structural rail dividing into three rounded hierarchy branches.</desc>
+  <g fill="none" stroke="#000" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M240 100v312"/>
+    <path d="M240 176h72c32 0 48-16 48-48"/>
+    <path d="M240 256H124"/>
+    <path d="M240 336h64c34 0 50 17 50 51"/>
+  </g>
+  <g fill="#000">
+    <circle cx="360" cy="104" r="31"/>
+    <circle cx="96" cy="256" r="32"/>
+    <circle cx="354" cy="410" r="30"/>
+  </g>
+</svg>
+
